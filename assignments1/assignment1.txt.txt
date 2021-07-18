@@ -1,0 +1,22 @@
+Internet Of Things Use cases:
+
+1. Enterprise Asset Management
+2. Predictive Maintenance
+3. Smart Lighting
+4. Electronic Road Toll Collection and Traffic Management
+5.Structural Health Monitoring
+6.Energy Management
+7. Outdoor Surveillance
+8. Smart Parking
+9. Noise Monitoring
+10. Industrial Process Automation/Optimisation
+11. Waste Management
+12. Water Conservation
+13. Smart Irrigation
+14. Leakage Management
+15. Water Quality Management
+16. Ultraviolet Radiation Monitoring
+17. Fall Detection
+18. Companion Robots
+19. Medical Fridges
+20. Smart Product Management
